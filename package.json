@@ -1,0 +1,19 @@
+{
+  "name": "entrega-10",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon --inspect ./src/server.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "6.3.0"
+  }
+  
+}
